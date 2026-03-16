@@ -23,9 +23,9 @@
 
 <h2>🚀 About Me</h2>
 
-- 💼 **Senior Software Engineer @ Edge Equity (Fintech)**
+- 💼 **Senior Software Engineer @ Soystek Inc (Technology Company)**
 - 🧠 **Technical Founder / Lead Engineer** on multiple production platforms
-- 🛠 7+ years building **mobile, web & backend systems**
+- 🛠 10+ years building **mobile, web & backend systems**
 - ☁️ Cloud-first mindset: **AWS, Docker, CI/CD, Terraform**
 - 📱 Deep experience with **React Native** & real-time systems
 - ✍️ Writing step-by-step technical guides & system design content
