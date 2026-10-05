@@ -1,7 +1,7 @@
 # Ubong Eduok
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Senior+Full-Stack+Engineer;Fintech+%7C+Marketplaces+%7C+Cloud+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Senior+Full-Stack+Engineer;Fintech+%7C+Marketplaces;Cloud+%26+Product+Engineering" alt="typing svg" />
 </p>
 
 <p align="center">
@@ -105,15 +105,6 @@ Practices: API design, CI/CD, system design, performance tuning, code review
 ### WagerVerse
 - Competitive gaming wager platform
 - Transactional systems, ranking workflows, and secure user experiences
-
----
-
-## GitHub overview
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mascot200&show_icons=true&hide_title=true&theme=tokyonight&count_private=false" alt="GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mascot200&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="170" />
-</div>
 
 ---
 
