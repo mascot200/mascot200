@@ -23,13 +23,11 @@ I build end-to-end products across backend, web, mobile, admin tooling and cloud
 
 ## GitHub analytics
 
-> Snapshot from the GitHub API, **November 2026**, private repositories included. Most of my work is in private product repos, so public-only counters show much less.
+> Snapshot from the GitHub API, **November 2026**.
 
 | Metric | Value |
 |:---|---:|
 | Total repositories | **171** |
-| Private / public | 153 / 18 |
-| Original repos (no forks) | 171 |
 | Total commits authored | **5,276+** |
 | Commits in the last 12 months | **2,586** |
 | Repositories created in 2026 | 45 |
@@ -75,22 +73,9 @@ pie showData
 
 ---
 
-## Top projects
+## Products I've built
 
-Private, multi-repo platforms I built. Happy to walk through them in an interview.
-
-| Product | Domain | Repos | Stack |
-|:---|:---|:---:|:---|
-| **SureTrada** | AI prediction marketplace | 7 | Next.js, React Native, Terraform |
-| **Esumoni** | Cooperative and ajo savings (fintech) | 4 | NestJS, PostgreSQL, AWS ECS, Temporal, React Native |
-| **Winovaa** | Skill gaming and fantasy sports | 3 | Next.js PWA, React Native |
-| **Scholora** | Live tutoring for learners aged 5–17 | 6 | NestJS microservices, PostgreSQL, Next.js, React Native |
-| **WagerVerse** | Competitive gaming wagers | 4 | Next.js, Terraform, observability |
-| **RentSafeDirect** | Property rental and sales marketplace | 4 | Node.js, MySQL, Socket.io, React Native |
-| **Caretakeer** | Agent-free property rentals | 3 | Next.js, Firebase, React Native |
-| **Korixa Labs** | AI platform for startup founders | 3 | NestJS (Fastify), Supabase, web, React Native |
-| **BlaqPlate** | Restaurant ordering, payments and loyalty | 3 | Next.js, React Native, Flutterwave, Mapbox |
-| **Floki** | Ride-hailing and mobility | 4 | Backend, rider app, driver app, admin |
+SureTrada · Esumoni · Winovaa · Scholora · WagerVerse · RentSafeDirect · Caretakeer · Korixa Labs · BlaqPlate · Floki
 
 ---
 
@@ -104,11 +89,6 @@ Private, multi-repo platforms I built. Happy to walk through them in an intervie
 | Backend Engineer | Booki | 2024 – 2025 |
 | Full-Stack Engineer | FlipEX | 2022 – 2023 |
 | Full-Stack Engineer | Edge Equity | 2019 – 2023 |
-
-- **FlipEX:** built the Flip Xpress platform and its admin dashboards, including the v2 rebuild in TypeScript.
-- **Edge Equity:** built the investment platform across web (Vue), mobile (React Native), wallet and dashboard products.
-
-**Other products shipped:** Spoovest · Proeditech · Tejj Collections · Oswald
 
 ---
 
