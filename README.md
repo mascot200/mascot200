@@ -88,6 +88,8 @@ Private, multi-repo platforms I built. Happy to walk through them in an intervie
 | **WagerVerse** | Competitive gaming wagers | 4 | Next.js, Terraform, observability |
 | **RentSafeDirect** | Property rental and sales marketplace | 4 | Node.js, MySQL, Socket.io, React Native |
 | **Caretakeer** | Agent-free property rentals | 3 | Next.js, Firebase, React Native |
+| **Korixa Labs** | AI platform for startup founders | 3 | NestJS (Fastify), Supabase, web, React Native |
+| **BlaqPlate** | Restaurant ordering, payments and loyalty | 3 | Next.js, React Native, Flutterwave, Mapbox |
 | **Floki** | Ride-hailing and mobility | 4 | Backend, rider app, driver app, admin |
 
 ---
@@ -106,7 +108,7 @@ Private, multi-repo platforms I built. Happy to walk through them in an intervie
 - **FlipEX:** built the Flip Xpress platform and its admin dashboards, including the v2 rebuild in TypeScript.
 - **Edge Equity:** built the investment platform across web (Vue), mobile (React Native), wallet and dashboard products.
 
-**Other products shipped:** Spoovest · Blaqplate · Korixa Labs · Proeditech · Tejj Collections · Oswald
+**Other products shipped:** Spoovest · Proeditech · Tejj Collections · Oswald
 
 ---
 
